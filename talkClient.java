@@ -20,6 +20,7 @@ public class talkClient{
 			 	outd.println(ddb);
 			 	outd.flush();
 			 	System.out.println("Me:"+ddb);
+			 	System.out.println("dadoub");
 			 	//System.out.println("Server:"+ind.readLine());
 			    ddb = keyboard.readLine();
 			 }
